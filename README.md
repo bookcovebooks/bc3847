@@ -1,8 +1,8 @@
 # Emmy Lou: her book and heart
 
-Author: Martin, George Madden
-Illustrator: Hinton, Charles Louis 
-Original Publisher: Grosset & Dunlap  
+Author: Martin, George Madden\
+Illustrator: Hinton, Charles Louis\ 
+Original Publisher: Grosset & Dunlap\  
 Original Publication Date: 1901
 
 ## About This Book
